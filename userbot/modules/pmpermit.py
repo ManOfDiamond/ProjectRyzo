@@ -24,10 +24,10 @@ from userbot.events import register
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
     "Hey there :)\n"
-    "I am Fizilion, my Master's assistant and bot.\n"
+    "Moi Name Is Ryzo, My Master's assistant.\n"
     "Please wait for my Master to read your messages.\n"
-    "Have patience, Wait for my Master to approve you,he doesn't approve retards tho\n\n\n"
-    "*This service is Powered by Fizilion AI")
+    "Have Some patience, Wait for my Master to approve you,he doesn't approve retards thooo\n\n\n"
+    "*This service is Powered by Ryzo AI")
 # =================================================================
 
 

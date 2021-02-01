@@ -96,7 +96,7 @@ async def deploy(event, repo, ups_rem, ac_br, txt):
 
         if BOTLOG:
             await event.client.send_message(
-                BOTLOG_CHATID, "#UPDATE \n" "Your Fizilion was successfully updated"
+                BOTLOG_CHATID, "#UPDATE \n" "Your Ryzo was successfully updated"
             )
 
     else:
@@ -116,7 +116,7 @@ async def update(event, repo, ups_rem, ac_br):
 
     if BOTLOG:
         await event.client.send_message(
-            BOTLOG_CHATID, "#UPDATE \n" "Your Fizilion was successfully updated"
+            BOTLOG_CHATID, "#UPDATE \n" "Your Ryzo was successfully updated"
         )
 
     # Spin a new instance of bot
@@ -206,7 +206,7 @@ async def upstream(event):
             "`Force-Syncing to latest stable userbot code, please wait...`"
         )
     else:
-        await event.edit("`Updating Fizilion, please wait....`")
+        await event.edit("`Updating Ryzo, please wait....`")
     if conf == "now":
         await update(event, repo, ups_rem, ac_br)
     elif conf == "deploy":
