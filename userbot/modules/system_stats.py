@@ -229,13 +229,11 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
-        "`Fizilion is Up`\n"
+        "`Ryzo Is Working Brrrrrrr`\n"
         f"`Hi {DEFAULTUSER}`\n"
-        f"•`Telethon       : v{version.__version__} `\n"
-        f"•`Python         : v{python_version()} `\n"
         f"•`Running on     : {repo.active_branch.name} `\n"
         f"•`Loaded modules : {len(modules)} `\n"
-        f"•`Fizilion       : v[{USERBOT_VERSION}] `\n"
+        f"•`Ryzo       : v[{USERBOT_VERSION}] `\n"
         f"•`Bot Uptime     : {uptime} `\n"
     )
     if ALIVE_LOGO:
