@@ -1,5 +1,5 @@
 # inherit prebuilt image
-FROM DhruvChhura/ProjectRyzo1:latest
+FROM frost2k5/projectfizilion:latest
 
 # env setup
 RUN mkdir /Ryzo && chmod 777 /Ryzo
