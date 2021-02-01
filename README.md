@@ -37,7 +37,7 @@ Easy way to get STRING_SESSION.
 
 ### or Run on your terminal
 ```
-wget https://raw.githubusercontent.com/DhruvChhura/ProjectRyzo1/monster/terminal_getstring.sh && bash terminal_getstring.sh
+wget https://raw.githubusercontent.com/DhruvChhura/ProjectRyzo/monster/terminal_getstring.sh && bash terminal_getstring.sh
 ```
 
 ## How To Host?
@@ -69,5 +69,5 @@ and many more people who aren't mentioned here, but may be found in [Contributor
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/DhruvChhura/ProjectRyzo1/blob/monster/LICENSE) - Version 1.d, February 2020
+This userbot licensed on [Raphielscape Public License](https://github.com/DhruvChhura/ProjectRyzo/blob/monster/LICENSE) - Version 1.d, February 2020
 Graphics Copyrighted By [DhruvChhura](https://t.me/DhruvChhura)
