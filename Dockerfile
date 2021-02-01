@@ -7,7 +7,7 @@ ENV PATH="/Ryzo/bin:$PATH"
 WORKDIR /Ryzo
 
 # clone repo
-RUN git clone https://github.com/DhruvChhura/ProjectRyzo1 -b monster /Ryzo
+RUN git clone https://github.com/DhruvChhura/ProjectRyzo -b monster /Ryzo
 
 
 # Copies session and config(if it exists)
