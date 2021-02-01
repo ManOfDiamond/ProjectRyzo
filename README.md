@@ -23,8 +23,6 @@
 
 ![Docker_Size](https://img.shields.io/docker/image-size/elytra8/projectfizilion?style=for-the-badge)
 
-![Docker_Pulls](https://img.shields.io/docker/pulls/elytra8/projectfizilion?style=for-the-badge)
-
 ![Spec](https://img.shields.io/badge/Made%20with-LOVE-black?style=for-the-badge)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
