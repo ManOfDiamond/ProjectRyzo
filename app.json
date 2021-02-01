@@ -166,7 +166,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "[PM = Report Spam] I ❤ ️Fizilion",
+      "value": "[PM = Report Spam] I ❤ ️Ryzo",
       "required": false
     },
     "ALIVE_NAME": {
