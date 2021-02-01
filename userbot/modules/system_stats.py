@@ -230,7 +230,7 @@ async def amireallyalive(alive):
     uptime = await get_readable_time((time.time() - StartTime))
     output = (
         "`Ryzo Is Working Brrrrrrr`\n"
-        f"`Hi {DEFAULTUSER}`\n"
+        f"`Hi @{DEFAULTUSER}`\n"
         f"•`Running on     : {repo.active_branch.name} `\n"
         f"•`Loaded modules : {len(modules)} `\n"
         f"•`Ryzo       : v[{USERBOT_VERSION}] `\n"
