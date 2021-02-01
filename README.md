@@ -54,6 +54,7 @@ For discussion, bug reporting, and help, you can join [Project Ryzo Support Grou
 ## Credits
 
 Thanks: 
+* [ElytrA8](https://github.com/FrosT2k5) - Project Fizilion
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
 * [kandnub](https://github.com/kandnub) - TG-UserBot
