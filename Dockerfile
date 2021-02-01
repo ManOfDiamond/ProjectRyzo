@@ -1,17 +1,17 @@
 # inherit prebuilt image
-FROM elytra8/projectfizilion:latest
+FROM DhruvChhura/ProjectRyzo1:latest
 
 # env setup
-RUN mkdir /Fizilion && chmod 777 /Fizilion
-ENV PATH="/Fizilion/bin:$PATH"
-WORKDIR /Fizilion
+RUN mkdir /Ryzo && chmod 777 /Ryzo
+ENV PATH="/Ryzo/bin:$PATH"
+WORKDIR /Ryzo
 
 # clone repo
-RUN git clone https://github.com/ElytrA8/ProjectFizilion -b dragon /Fizilion
+RUN git clone https://github.com/DhruvChhura/ProjectRyzo1 -b monster /Ryzo
 
 
 # Copies session and config(if it exists)
-COPY ./sample_config.env ./userbot.session* ./config.env* /Fizilion/
+COPY ./sample_config.env ./userbot.session* ./config.env* /Ryzo/
 
 #transfer
 RUN curl -sL https://git.io/file-transfer | sh

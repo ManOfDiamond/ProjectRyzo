@@ -1,6 +1,6 @@
-# Project Fizilion
+# Project Ryzo
 
-![logo](https://github.com/ElytrA8/ProjectFizilion/raw/dragon/resources/curved.png)
+![logo][![Ryzo logo](https://telegra.ph/file/4d3c8c5ee9b4670bae634.jpg)](https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo)
 
 ```
 #include <std/disclaimer.h>
@@ -33,11 +33,11 @@
 Easy way to get STRING_SESSION. 
 
 ### Run on repl.it
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=flat-square&logo=repl.it)](https://session.uraniumcore.repl.run)
+[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=flat-square&logo=repl.it)](https://repl.it/@dhruv9/StringSession#main.py)
 
 ### or Run on your terminal
 ```
-wget https://raw.githubusercontent.com/ElytrA8/ProjectFizilion/dragon/terminal_getstring.sh && bash terminal_getstring.sh
+wget https://raw.githubusercontent.com/DhruvChhura/ProjectRyzo1/monster/terminal_getstring.sh && bash terminal_getstring.sh
 ```
 
 ## How To Host?
@@ -45,13 +45,13 @@ wget https://raw.githubusercontent.com/ElytrA8/ProjectFizilion/dragon/terminal_g
 The easiest way to deploy this great bot! is click on button below.
 Make sure you have an account of heroku and follow all the steps required.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/FrosT2k5/ProjectFizilion/tree/dragon"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo1/tree/monster"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 For further guide you can head to [Groups and Support](https://github.com/MoveAngel/One4uBot#Groups-and-Support) or read this [guide](https://telegra.ph/How-to-host-a-Telegram-Userbot-07-01-2)
 
 ## Groups and Support
 
-For discussion, bug reporting, and help, you can join [project Fizilion Support Group](https://t.me/ProjectFizilion).
+For discussion, bug reporting, and help, you can join [Project Ryzo Support Group](https://t.me/ProjectRyzo).
 
 ## Credits
 
@@ -69,5 +69,5 @@ and many more people who aren't mentioned here, but may be found in [Contributor
 
 ## License
 
-This userbot licensed on [Raphielscape Public License](https://github.com/ElytrA8/ProjectFizilion/blob/dragon/LICENSE) - Version 1.d, February 2020
-Graphics Copyrighted By [ElytrA8](https://t.me/ElytrA8)
+This userbot licensed on [Raphielscape Public License](https://github.com/DhruvChhura/ProjectRyzo1/blob/monster/LICENSE) - Version 1.d, February 2020
+Graphics Copyrighted By [DhruvChhura](https://t.me/DhruvChhura)

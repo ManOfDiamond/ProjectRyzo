@@ -1,7 +1,7 @@
 {
-  "name": "Project Fizilion",
-  "description": "A modular Telegram userbot running on Python 3.8+ with an sqlalchemy database.",
-  "logo": "https://github.com/ElytrA8/ProjectFizilion/raw/dragon/resources/Fizilion.png",
+  "name": "Project Ryzo",
+  "description": "A modular Telegram userbot running on Python 3.8+ .",
+  "logo": "https://telegra.ph/file/fe7addaf56a53b7ef7356.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ElytrA8/ProjectFizilion",
-  "website": "https://t.me/ElytrA8",
-  "success_url": "https://t.me/ProjectFizilion",
+  "repository": "https://github.com/DhruvChhura/ProjectRyzo1",
+  "website": "https://t.me/DhruvChhura",
+  "success_url": "https://t.me/ProjectRyzo",
   "stack": "container",
   "env": {
     "API_KEY": {
