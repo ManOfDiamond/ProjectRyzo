@@ -43,9 +43,9 @@ wget https://raw.githubusercontent.com/DhruvChhura/ProjectRyzo/monster/terminal_
 The easiest way to deploy this great bot! is click on button below.
 Make sure you have an account of heroku and follow all the steps required.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo1/tree/monster"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo/tree/monster"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-For further guide you can head to [Groups and Support](https://github.com/MoveAngel/One4uBot#Groups-and-Support) or read this [guide](https://telegra.ph/How-to-host-a-Telegram-Userbot-07-01-2)
+For further guide you can head to [Groups and Support](https://t.me/ProjectRyzo) or read this [guide](https://telegra.ph/How-to-host-a-Telegram-Userbot-07-01-2)
 
 ## Groups and Support
 
