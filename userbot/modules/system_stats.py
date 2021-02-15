@@ -233,7 +233,7 @@ async def amireallyalive(alive):
         f"`Hi @{DEFAULTUSER}`\n"
         f"•`Running on     : {repo.active_branch.name} `\n"
         f"•`Loaded modules : {len(modules)} `\n"
-        f"•`Ryzo       : v[{USERBOT_VERSION}] `\n"
+        f"•`Ryzo           : v[{USERBOT_VERSION}] `\n"
         f"•`Bot Uptime     : {uptime} `\n"
     )
     if ALIVE_LOGO:
