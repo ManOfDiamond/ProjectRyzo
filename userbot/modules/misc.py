@@ -97,6 +97,13 @@ async def repo_is_here(wannasee):
         "[Click here](https://github.com/DhruvChhura/ProjectRyzo) to open Ryzo's GitHub Repo."
     )
 
+@register(outgoing=True, pattern="^.myrepo$")
+async def myrepo_is_here(wannaseeme):
+    """ For .myrepo command, just returns the repo URL. """
+    await wannaseeme.edit(
+        f'Click [right here](https://github.com/{GIT_REPO_NAME}/tree/monster/) to open {DEFAULTUSER}`s GitHub fork page'
+    )
+
 @register(outgoing=True, pattern="^.support$")
 async def grup(sapot):
     await sapot.edit("Support Group: @ProjectRyzo")
@@ -136,7 +143,8 @@ CMD_HELP.update(
 ".repo"
 "\nUsage: If you are curious what makes the userbot work, this is what you need.\n\n"
 ".readme"
-"\nUsage: Provide links to setup the userbot and it's modules\nAnd .support for support group\n\n"
+".myrepo"
+\nUsage: If you are curious which is your personal repo, this is what you have.\"\nUsage: Provide links to setup the userbot and it's modules\nAnd .support for support group\n\n"
 ".repeat <no.> <text>"
 "\nUsage: Repeats the text for a number of times. Don't confuse this with spam tho.\n\n"
 ".restart"
