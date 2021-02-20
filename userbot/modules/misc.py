@@ -12,7 +12,7 @@ from os import execl
 from random import randint
 from time import sleep
 
-from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot
+from userbot import BOTLOG, BOTLOG_CHATID, CMD_HELP, bot, GIT_REPO_NAME
 from userbot.events import register
 from userbot.utils import time_formatter
 
