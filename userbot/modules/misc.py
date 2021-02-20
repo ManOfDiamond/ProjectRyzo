@@ -145,7 +145,7 @@ CMD_HELP.update(
 ".readme"
 "\nUsage: Provide links to setup the userbot and it's modules\nAnd .support for support group\n\n"
 ".myrepo"
-"\nUsage: If you are curious which is your personal repo, this is what you have.\"
+"\nUsage: If you are curious which is your personal repo, this is what you have.\n\n"
 ".repeat <no.> <text>"
 "\nUsage: Repeats the text for a number of times. Don't confuse this with spam tho.\n\n"
 ".restart"
