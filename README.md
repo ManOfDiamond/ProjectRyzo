@@ -1,6 +1,6 @@
 # Project Ryzo
 
-![logo][![Ryzo logo](https://telegra.ph/file/4d3c8c5ee9b4670bae634.jpg)](https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo)
+[![Ryzo logo](https://telegra.ph/file/4d3c8c5ee9b4670bae634.jpg)](https://heroku.com/deploy?template=https://github.com/ManOfDiamond/ProjectRyzo)
 
 ```
 #include <std/disclaimer.h>
@@ -35,7 +35,7 @@ Easy way to get STRING_SESSION.
 
 ### or Run on your terminal
 ```
-wget https://raw.githubusercontent.com/DhruvChhura/ProjectRyzo/monster/terminal_getstring.sh && bash terminal_getstring.sh
+wget https://raw.githubusercontent.com/ManOfDiamond/ProjectRyzo/monster/terminal_getstring.sh && bash terminal_getstring.sh
 ```
 
 ## How To Host?
@@ -47,13 +47,13 @@ Make sure you have an account of heroku and follow all the steps required.
 
 For further guide you can head to [Groups and Support](https://t.me/ProjectRyzo) or read this [guide](https://telegra.ph/How-to-host-a-Telegram-Userbot-07-01-2)
 
-## Groups and Support
+## Support
 
-For discussion, bug reporting, and help, you can join [Project Ryzo Support Group](https://t.me/ProjectRyzo).
+For discussion, bug reporting, and help, you can PM [ManOfDiamond](https://t.me/ManOfDiamond).
 
 ## Credits
 
-Thanks: 
+Big Thanks: 
 * [ElytrA8](https://github.com/FrosT2k5) - Project Fizilion
 * [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
 * [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
@@ -64,8 +64,9 @@ Thanks:
 * [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
 * [MoveAngel](https://github.com/MoveAngel) - One4U
 * [Sahyam2019](https://github.com/Sahyam2019) - Oub-Remix
+* [Dhruv](https://t.me/DhruvChhura) - ProjectRyzo Graphics designing and first bringup
 
-and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/ElytrA8/ProjectFizilion/graphs/contributors).
+and many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/ManOfDiamond/ProjectRyzo/graphs/contributors).
 
 ## License
 
