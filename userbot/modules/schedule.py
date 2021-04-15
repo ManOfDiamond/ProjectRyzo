@@ -1,8 +1,8 @@
 from asyncio import sleep
 
 
-@bot.on(admin_cmd(pattern="schd (\d*) (.*)", outgoing=True))
-@bot.on(sudo_cmd(pattern="schd (\d*) (.*)", allow_sudo=True))
+@register(admin_cmd(pattern="schd (\d*) (.*)", outgoing=True))
+
 async def _(event):
     if event.fwd_from:
         return
