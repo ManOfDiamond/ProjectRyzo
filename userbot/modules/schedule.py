@@ -1,7 +1,7 @@
 from asyncio import sleep
 
 
-@register(admin_cmd(pattern="schd (\d*) (.*)", outgoing=True))
+@register(admin_cmd(pattern="^.schd , outgoing=True))
 
 async def _(event):
     if event.fwd_from:
