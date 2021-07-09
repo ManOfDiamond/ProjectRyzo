@@ -1,4 +1,4 @@
-# Project Ryzo
+# Project Ryzo(Now Deprecated)
 
 [![Ryzo logo](https://telegra.ph/file/4d3c8c5ee9b4670bae634.jpg)](https://heroku.com/deploy?template=https://github.com/ManOfDiamond/ProjectRyzo)
 
